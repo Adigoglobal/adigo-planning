@@ -1,0 +1,7 @@
+# Docs review owners
+# Enforce review by Maintainers for planning docs
+
+docs/prd/** @Adigoglobal/maintainers
+docs/canon/** @Adigoglobal/maintainers
+docs/instructions/** @Adigoglobal/maintainers
+docs/mindmap/** @Adigoglobal/maintainers
